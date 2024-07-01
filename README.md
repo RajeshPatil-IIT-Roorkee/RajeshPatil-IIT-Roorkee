@@ -87,8 +87,6 @@ Here are some of my notable certifications:
 - **IIT Madras - Reinforcement Learning**: [View Certificate](https://github.com/RajeshPatil-IIT-Roorkee/RajeshPatil-IIT-Roorkee/blob/main/Cert%20-%20PNG/Reinforcement%20Learning%20by%20IIT-%20Madras.jpg)
 - **IIT Madras - MLOps**: [View Certificate](https://github.com/RajeshPatil-IIT-Roorkee/RajeshPatil-IIT-Roorkee/blob/main/Cert%20-%20PNG/MLOps%20by%20IIT%20-%20Madras.jpg)
 
-![Certificate Image](https://via.placeholder.com/400x300.png?text=Certificate+Image)
-
 ## 🌟 **Connect with Me**
 
 - **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/rajesh-patil-iitr)
