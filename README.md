@@ -1,6 +1,6 @@
 # 💻 **Rajesh Patil** - Data Scientist, ML Enthusiast, and AI Explorer
 
-![Banner](https://path-to-your-image.png)
+![Banner](https://github.com/RajeshPatil-IIT-Roorkee/RajeshPatil-IIT-Roorkee/blob/main/Cert%20-%20PNG/IMG-20230324-WA0113.jpg)
 
 Welcome to my GitHub profile! I am passionate about leveraging the power of data and AI to solve real-world problems. Here, you'll find a collection of my projects, contributions, and a showcase of my skills in data science, machine learning, artificial intelligence, and more.
 
@@ -77,14 +77,15 @@ A sophisticated book recommender system using collaborative filtering techniques
 
 Here are some of my notable certifications:
 
-- **Google Big Data Management**: [View Certificate](path/to/certificate1.pdf)
-- **AWS AI-ML Workshop**: [View Certificate](path/to/certificate2.pdf)
-- **Intel Generative AI Workshop**: [View Certificate](path/to/certificate3.pdf)
-- **MathWorks Deep Learning using MATLAB**: [View Certificate](path/to/certificate4.pdf)
-- **IBM AI and ML Workshop**: [View Certificate](path/to/certificate5.pdf)
-- **Sarathi.AI NLP Workshop**: [View Certificate](path/to/certificate6.pdf)
+- **Google - Big Data Management & ML on Google Cloud**: [View Certificate](https://github.com/RajeshPatil-IIT-Roorkee/RajeshPatil-IIT-Roorkee/blob/main/Cert%20-%20PNG/Data%20Engineering%20by%20Google.png)
+- **AWS - Containers & AI-ML on AWS Cloud Workshop**: [View Certificate](https://github.com/RajeshPatil-IIT-Roorkee/RajeshPatil-IIT-Roorkee/blob/main/Cert%20-%20PNG/Containers%20%26%20AI-ML%20on%20AWS%20Cloud%20by%20AWS.png)
+- **Intel - Generative AI Workshop**: [View Certificate](https://github.com/RajeshPatil-IIT-Roorkee/RajeshPatil-IIT-Roorkee/blob/main/Cert%20-%20PNG/Gen%20AI%20by%20Intel.png)
+- **MathWorks -  Deep Learning using MATLAB & Simulink**: [View Certificate](https://github.com/RajeshPatil-IIT-Roorkee/RajeshPatil-IIT-Roorkee/blob/main/Cert%20-%20PNG/Deep%20Learning%20using%20Matlab%20%26%20Simulink%20by%20MathWorks.png)
+- **IBM - AI and ML Workshop**: [View Certificate](https://github.com/RajeshPatil-IIT-Roorkee/RajeshPatil-IIT-Roorkee/blob/main/Cert%20-%20PNG/AI%20%26%20ML%20by%20IBM.png)
+- **Sarathi.AI - NLP Workshop**: [View Certificate](https://github.com/RajeshPatil-IIT-Roorkee/RajeshPatil-IIT-Roorkee/blob/main/Cert%20-%20PNG/NLP%20by%20Sarathi.AI.png)
 - **GeeksForGeeks Web Development Workshop**: [View Certificate](path/to/certificate7.pdf)
-- **IIT Madras Reinforcement Learning and MLOps**: [View Certificate](path/to/certificate8.pdf)
+- **IIT Madras - Reinforcement Learning**: [View Certificate](https://github.com/RajeshPatil-IIT-Roorkee/RajeshPatil-IIT-Roorkee/blob/main/Cert%20-%20PNG/Reinforcement%20Learning%20by%20IIT-%20Madras.jpg)
+- **IIT Madras - MLOps**: [View Certificate](https://github.com/RajeshPatil-IIT-Roorkee/RajeshPatil-IIT-Roorkee/blob/main/Cert%20-%20PNG/MLOps%20by%20IIT%20-%20Madras.jpg)
 
 ![Certificate Image](https://via.placeholder.com/400x300.png?text=Certificate+Image)
 
