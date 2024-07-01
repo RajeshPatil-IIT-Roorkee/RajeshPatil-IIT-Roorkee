@@ -89,8 +89,8 @@ Here are some of my notable certifications:
 
 ## 🌟 **Connect with Me**
 
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/rajesh-patil-iitr)
-- **Email**: [Your Email Address](mailto:07rajeshpatil@gmail.com)
+- **LinkedIn**: [www.linkedin.com/in/rajesh-patil-iitr]
+- **Email**: [mailto:07rajeshpatil@gmail.com]
 
 Feel free to explore my repositories, open issues, and contribute to my projects. Let's collaborate and make something amazing!
 
