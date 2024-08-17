@@ -63,11 +63,11 @@ I am a versatile and skilled data scientist with a robust background in data man
 ## 📚 **Featured Projects**
 
 ### 📘 **Movie Recommender System**
-A sophisticated book recommender system using collaborative filtering techniques. This project includes a detailed analysis of user preferences and book ratings to provide personalized book recommendations.
+A sophisticated movie recommender system using collaborative filtering and content based filtering techniques. This project includes a detailed analysis of user preferences and movie ratings to provide personalized movie recommendations.
 
 - **Datasets Used**: TMDB_5000
 - **Technologies**: Python, Scikit-learn, Streamlit, ReactJS, Render, Pandas, Numpy, Matplotlib
-- **Highlights**: Data cleaning, preprocessing, building recommendation algorithms
+- **Highlights**: Data cleaning, preprocessing, feature engineering, building recommendation system, deploying on cloud platform
 - **Video Demo**: [Watch Video](https://www.youtube.com/watch?v=yourvideolink)
 - **GitHub Repository**: [View on GitHub](https://github.com/RajeshPatil-IIT-Roorkee/Rajesh-MRS)
 
