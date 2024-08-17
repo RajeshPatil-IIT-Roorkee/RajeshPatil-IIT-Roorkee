@@ -69,9 +69,9 @@ A sophisticated book recommender system using collaborative filtering techniques
 - **Technologies**: Python, Pandas, Scikit-learn, Matplotlib, Streamlit
 - **Highlights**: Data cleaning, preprocessing, building recommendation algorithms
 - **Video Demo**: [Watch Video](https://www.youtube.com/watch?v=yourvideolink)
-- **GitHub Repository**: [View on GitHub](https://github.com/yourusername/book-recommender-system)
+- **GitHub Repository**: [View on GitHub](https://github.com/RajeshPatil-IIT-Roorkee/Rajesh-MRS)
 
-![Movie Recommender System ](Cert - PNG/Screenshot (903).png)
+![Movie Recommender System ]([Cert - PNG/Screenshot (903).png](https://github.com/RajeshPatil-IIT-Roorkee/RajeshPatil-IIT-Roorkee/blob/main/Cert%20-%20PNG/Screenshot%20(903).png))
 
 ## 🏆 **Certifications**
 
