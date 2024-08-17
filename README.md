@@ -17,7 +17,7 @@ I am a versatile and skilled data scientist with a robust background in data man
 
 ### **Professional Experience**
 
-- **Internships**: Completed internships in Data Science, AI, ML, Deep Learning, Data Analytics, and Python, all delivered on time.
+- **Internships**: Completed internships in Generative AI, NVIDIA AI-Hardware, AI, ML, Deep Learning, Data Science, Data Analytics, and Python, all delivered on time.
 - **Fellowship**: Worked on LLMs at GenAITechLabs.
 - **Virtual Internships**: Gained diverse experience at British Airways, BCGx, Cognizant, Walmart, Accenture, HP, JP Morgan, and Goldman Sachs.
 
