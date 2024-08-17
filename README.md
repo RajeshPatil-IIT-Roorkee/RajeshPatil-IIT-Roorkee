@@ -71,7 +71,7 @@ A sophisticated book recommender system using collaborative filtering techniques
 - **Video Demo**: [Watch Video](https://www.youtube.com/watch?v=yourvideolink)
 - **GitHub Repository**: [View on GitHub](https://github.com/yourusername/book-recommender-system)
 
-![Recommender System Plot](https://via.placeholder.com/400x300.png?text=Recommender+System+Plot)
+![Movie Recommender System ](Cert - PNG/Screenshot (903).png)
 
 ## 🏆 **Certifications**
 
