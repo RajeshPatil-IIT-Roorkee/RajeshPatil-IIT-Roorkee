@@ -66,7 +66,7 @@ I am a versatile and skilled data scientist with a robust background in data man
 A sophisticated book recommender system using collaborative filtering techniques. This project includes a detailed analysis of user preferences and book ratings to provide personalized book recommendations.
 
 - **Datasets Used**: TMDB_5000
-- **Technologies**: Python, Pandas, Scikit-learn, Matplotlib, Streamlit
+- **Technologies**: Python, Scikit-learn, Streamlit, ReactJS, Render, Pandas, Numpy, Matplotlib
 - **Highlights**: Data cleaning, preprocessing, building recommendation algorithms
 - **Video Demo**: [Watch Video](https://www.youtube.com/watch?v=yourvideolink)
 - **GitHub Repository**: [View on GitHub](https://github.com/RajeshPatil-IIT-Roorkee/Rajesh-MRS)
