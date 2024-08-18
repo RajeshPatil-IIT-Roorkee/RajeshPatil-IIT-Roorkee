@@ -68,7 +68,7 @@ A sophisticated movie recommender system using collaborative filtering and conte
 - **Datasets Used**: TMDB_5000
 - **Technologies**: Python, Scikit-learn, Streamlit, ReactJS, Render, Pandas, Numpy, Matplotlib
 - **Highlights**: Data cleaning, preprocessing, feature engineering, building recommendation system, deploying on cloud platform
-- **Video Demo**: [Watch Video](https://www.youtube.com/watch?v=yourvideolink)
+- **Video Demo**: [Watch Video](https://youtu.be/ckajF6uChU4)
 - **GitHub Repository**: [View on GitHub](https://github.com/RajeshPatil-IIT-Roorkee/Rajesh-MRS)
 
 ![Movie Recommender System ](https://github.com/RajeshPatil-IIT-Roorkee/RajeshPatil-IIT-Roorkee/blob/main/Cert%20-%20PNG/Screenshot%20(903).png)
