@@ -1,4 +1,4 @@
-# 💻 **Rajesh Patil** - Data Scientist, ML Enthusiast, and AI Explorer
+# 💻 **Rajesh Patil** - Data Scientist, AI-ML Enthusiast, and Generative AI Explorer
 
 ![Banner](https://github.com/RajeshPatil-IIT-Roorkee/RajeshPatil-IIT-Roorkee/blob/main/Cert%20-%20PNG/IMG-20230324-WA0113.jpg)
 
